@@ -9,7 +9,7 @@ var images = [
     'background-size': 'cover'
   },
   { 'background-image': 'url(images/palm.jpg)' },
-  { 'background-image': 'url(images/polka.jpg)' }
+  { 'background-image': 'url(images/specs.gif)' }
 ]
 
 function ready(fn) {
