@@ -8,7 +8,7 @@ var images = [
     'background-image': 'url(images/stars.gif)',
     'background-size': 'cover'
   },
-  { 'background-image': 'url(images/palm.jpg)' },
+  { 'background-image': 'url(images/dots.jpeg)' },
   { 'background-image': 'url(images/specs.gif)' }
 ]
 
